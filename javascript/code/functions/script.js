@@ -1,9 +1,11 @@
 // simple function
+
 function sum ()
 {
     let a = 10, b = 20;
     console.log(a+b)
 }
+
 sum() //30
 function sum2(a,b)
 {
@@ -120,6 +122,7 @@ function cal (x, y)
     y(5,4)
 }
 cal(sum,sub)
+
 
 
 // functions can be treated as variables
